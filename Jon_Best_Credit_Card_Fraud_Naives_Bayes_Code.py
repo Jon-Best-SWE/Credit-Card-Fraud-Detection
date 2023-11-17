@@ -7,10 +7,8 @@ Created on Sun Jul 2 08:41:52 2023
 
 # Jon Best
 # 7/2/2023
-# CS379 - Machine Learning
-# Common Applications of Machine Learning 
 # The purpose of this Python code is to use the Naive Bayes algorithm
-# to evaluate statistical information about credit card fraud and detect anomolies 
+# to evaluate statistical information about credit card fraud and detect anomalies 
 # in spending patterns and behavior activities that could indicate identity theft.
  
 #***************************************************************************************
